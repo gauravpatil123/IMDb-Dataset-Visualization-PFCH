@@ -1,3 +1,7 @@
+# Maunually added restrictions
+Data/IMDb\ dataset/
+Data/Constructed\ Datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
