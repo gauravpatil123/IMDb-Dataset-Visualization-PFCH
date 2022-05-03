@@ -8,10 +8,10 @@ Network Graph Visualization created from the IMDb datasets
 - Scripts
 - Executables
 - Outputs
-  1. Actors Movie 2021-2022
-  2. Actresses Movie 2021-2022
-  3. Directors Movie 2021-2022
-  4. Writers Movie 2021-2022
+  1. Actors-Movies-2021-2022
+  2. Actresses-Movie-2021-2022
+  3. Directors-Movie-2021-2022
+  4. Writers-Movie-2021-2022
 
 **About**</br>
 I have constructed network graph of different professions and movies during the
@@ -19,7 +19,7 @@ year 2021-2022. The professions include Actor, Actresses, Directors and Writers.
 Once the graphs were constructed I dumped them to the csv files and used Gephi
 to create netwrok graph visualizations from the csv files.
 
-**Datasets**
+**Datasets**</br>
 I used the datasets from the IMDb Api. The documentation and download links for
 the datasets are as follows:
 - [Documentation URL](https://www.imdb.com/interfaces/)
@@ -37,3 +37,7 @@ the datasets are as follows:
 - main: Initializaes the the global variables and data paths, prcesses datasets using the datasetProcessing class, Filters and extracts data and constructs custom datastructures using utility fucntions, Creates the Nodes and Edges csv files to be used as input for Gephi to create dataset Visualizations
 
 **Outputs**
+- Actor-Movies-2021-2022
+- Actresses-Movies-2021-2022
+- Directors-Movies-2021-2022
+- Writers-Movies-2021-2022
