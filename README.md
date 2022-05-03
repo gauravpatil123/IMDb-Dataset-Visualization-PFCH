@@ -14,8 +14,16 @@ Network Graph Visualization created from the IMDb datasets
   4. Writers Movie 2021-2022
 
 **About**
+I have constructed network graph of different professions and movies during the
+year 2021-2022. The professions include Actor, Actresses, Directors and Writers.
+Once the graphs were constructed I dumped them to the csv files and used Gephi
+to create netwrok graph visualizations from the csv files.
 
 **Datasets**
+I used the datasets from the IMDb Api. The documentation and download links for
+the datasets are as follows:
+- [Documentation URL](https://www.imdb.com/interfaces/)
+- [Download URL](https://datasets.imdbws.com)
 
 **Classes**
 - nodes: Contains Class CreateNodes to create the nodes csv output to be used in Gephi for graph visualization
