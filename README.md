@@ -13,7 +13,7 @@ Network Graph Visualization created from the IMDb datasets
   3. Directors Movie 2021-2022
   4. Writers Movie 2021-2022
 
-**About**
+**About**</br>
 I have constructed network graph of different professions and movies during the
 year 2021-2022. The professions include Actor, Actresses, Directors and Writers.
 Once the graphs were constructed I dumped them to the csv files and used Gephi
