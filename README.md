@@ -38,19 +38,18 @@ the datasets are as follows:
 
 **Outputs**
 - Actor-Movies-2021-2022
-  1. [High-Def PDF]()
+  1. [High-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Actor_Movies_2021_2022_D_Labels.pdf)
   2. 4K Image:
-  <img src="Data/Visualizations/Actor_Movies_2021_2022_D_Labels_4K.png"
-  height=1000>
+  <img src="Data/Visualizations/Actor_Movies_2021_2022_D_Labels_4K.png" width=1000>
 - Actresses-Movies-2021-2022
-  1. [High-Def PDF]()
+  1. [High-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Actress_Movies_2021_2022_C_Labels.pdf)
   2. 11K Image:
-  <img src="Data/Visualizations/Actress_Movies_2021_2022_C_Labels_11K.png" height=1000>
+  <img src="Data/Visualizations/Actress_Movies_2021_2022_C_Labels_11K.png" width=1000>
 - Directors-Movies-2021-2022
-  1. [Hidg-Def PDF]()
+  1. [Hidg-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Directors_movies_2021_2022_D_Labels.pdf)
   2. 12K Image:
-  <img src="Data/Visualizations/Directors_movies_2021_2022_D_Labels_12K.png" height=1000>
+  <img src="Data/Visualizations/Directors_movies_2021_2022_D_Labels_12K.png" width=1000>
 - Writers-Movies-2021-2022
-  1. [High-Def PDF]()
+  1. [High-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Writers_movies_2021_2022_B_Labels.pdf)
   2. 12K Image:
-  <img src="Data/Visualizations/Writers_movies_2021_2022_B_Labels_12K.png" height=1000>
+  <img src="Data/Visualizations/Writers_movies_2021_2022_B_Labels_12K.png" width=1000>
