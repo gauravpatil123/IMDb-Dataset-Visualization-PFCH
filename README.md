@@ -19,6 +19,8 @@ year 2021-2022. The professions include Actor, Actresses, Directors and Writers.
 Once the graphs were constructed I dumped them to the csv files and used Gephi
 to create network graph visualizations from the csv files.
 
+*To execute the program run the main.py script*
+
 **Datasets**</br>
 I used the datasets from the IMDb Api. The documentation and download links for
 the datasets are as follows:
