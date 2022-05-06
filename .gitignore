@@ -1,6 +1,6 @@
 # Maunually added restrictions
 Data/IMDb\ dataset/
-Data/Constructed\ Datasets/
+Data/Constructed\ Datasets/*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
