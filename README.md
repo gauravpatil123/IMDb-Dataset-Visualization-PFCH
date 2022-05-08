@@ -48,7 +48,7 @@ the datasets are as follows:
   2. 11K Image:
   <img src="Data/Visualizations/Actress_Movies_2021_2022_C_Labels_11K.png" width=1000>
 - Directors-Movies-2021-2022
-  1. [Hidg-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Directors_movies_2021_2022_D_Labels.pdf)
+  1. [High-Def PDF](https://github.com/gauravpatil123/IMDb-Dataset-Visualization-PFCH/blob/main/Data/Visualizations/Directors_movies_2021_2022_D_Labels.pdf)
   2. 12K Image:
   <img src="Data/Visualizations/Directors_movies_2021_2022_D_Labels_12K.png" width=1000>
 - Writers-Movies-2021-2022
